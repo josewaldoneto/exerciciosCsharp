@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\repos\\exerciciosC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao38matriz4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao38matriz4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao37matriz3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao37matriz3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao35matriz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao35matriz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao36matriz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao36matriz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao34vetor5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao34vetor5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao33vetor4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao33vetor4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao32vetor3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao32vetor3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao31vetor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao31vetor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao30vetor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao30vetor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao29funcoes6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao29funcoes6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao28funcoes5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao28funcoes5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao26funcoes3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao26funcoes3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao27funcoes4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao27funcoes4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao21for3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao21for3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao22for4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao22for4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao25funcoes2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao25funcoes2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao24funcoes1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao24funcoes1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao23for5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao23for5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao20for2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao20for2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao19for1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao19for1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|d:\\documentos\\repos\\exerciciosc#\\exerciciosc#\\questao10operadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490273E-3351-45DB-97D1-73D9F8D53722}|exerciciosC#\\exerciciosC#.csproj|solutionrelative:exerciciosc#\\questao10operadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "questao38matriz4.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao38matriz4.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao38matriz4.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao38matriz4.cs",
+              "RelativeToolTip": "exerciciosC#\\questao38matriz4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:32:37.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "questao37matriz3.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao37matriz3.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao37matriz3.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao37matriz3.cs",
+              "RelativeToolTip": "exerciciosC#\\questao37matriz3.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:24:29.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "questao36matriz2.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao36matriz2.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao36matriz2.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao36matriz2.cs",
+              "RelativeToolTip": "exerciciosC#\\questao36matriz2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:13:38.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "questao35matriz1.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao35matriz1.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao35matriz1.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao35matriz1.cs",
+              "RelativeToolTip": "exerciciosC#\\questao35matriz1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:06:53.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "questao34vetor5.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao34vetor5.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao34vetor5.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao34vetor5.cs",
+              "RelativeToolTip": "exerciciosC#\\questao34vetor5.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:02:03.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "questao33vetor4.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao33vetor4.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao33vetor4.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao33vetor4.cs",
+              "RelativeToolTip": "exerciciosC#\\questao33vetor4.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:55:42.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "questao32vetor3.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao32vetor3.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao32vetor3.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao32vetor3.cs",
+              "RelativeToolTip": "exerciciosC#\\questao32vetor3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:48:52.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "questao31vetor2.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao31vetor2.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao31vetor2.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao31vetor2.cs",
+              "RelativeToolTip": "exerciciosC#\\questao31vetor2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:34:53.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "questao30vetor1.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao30vetor1.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao30vetor1.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao30vetor1.cs",
+              "RelativeToolTip": "exerciciosC#\\questao30vetor1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:25:53.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "questao29funcoes6.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao29funcoes6.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao29funcoes6.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao29funcoes6.cs",
+              "RelativeToolTip": "exerciciosC#\\questao29funcoes6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:20:44.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "questao28funcoes5.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao28funcoes5.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao28funcoes5.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao28funcoes5.cs",
+              "RelativeToolTip": "exerciciosC#\\questao28funcoes5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:17:45.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "questao27funcoes4.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao27funcoes4.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao27funcoes4.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao27funcoes4.cs",
+              "RelativeToolTip": "exerciciosC#\\questao27funcoes4.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:06:01.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "questao26funcoes3.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao26funcoes3.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao26funcoes3.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao26funcoes3.cs",
+              "RelativeToolTip": "exerciciosC#\\questao26funcoes3.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:59:53.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "questao25funcoes2.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao25funcoes2.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao25funcoes2.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao25funcoes2.cs",
+              "RelativeToolTip": "exerciciosC#\\questao25funcoes2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:57:22.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "questao24funcoes1.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao24funcoes1.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao24funcoes1.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao24funcoes1.cs",
+              "RelativeToolTip": "exerciciosC#\\questao24funcoes1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:55:33.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "questao23for5.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao23for5.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao23for5.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao23for5.cs",
+              "RelativeToolTip": "exerciciosC#\\questao23for5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:52:33.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "questao22for4.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao22for4.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao22for4.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao22for4.cs",
+              "RelativeToolTip": "exerciciosC#\\questao22for4.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:46:55.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "questao21for3.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao21for3.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao21for3.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao21for3.cs",
+              "RelativeToolTip": "exerciciosC#\\questao21for3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:44:24.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "questao20for2.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao20for2.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao20for2.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao20for2.cs",
+              "RelativeToolTip": "exerciciosC#\\questao20for2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:39:27.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "questao19for1.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao19for1.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao19for1.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao19for1.cs",
+              "RelativeToolTip": "exerciciosC#\\questao19for1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:34:33.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "questao10operadora.cs",
+              "DocumentMoniker": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao10operadora.cs",
+              "RelativeDocumentMoniker": "exerciciosC#\\questao10operadora.cs",
+              "ToolTip": "D:\\Documentos\\repos\\exerciciosC#\\exerciciosC#\\questao10operadora.cs",
+              "RelativeToolTip": "exerciciosC#\\questao10operadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:54:24.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Documentos\repos\exerciciosC#\exerciciosC#\bin\Debug\net8.0\exerciciosC#.exe
+D:\Documentos\repos\exerciciosC#\exerciciosC#\bin\Debug\net8.0\exerciciosC#.deps.json
+D:\Documentos\repos\exerciciosC#\exerciciosC#\bin\Debug\net8.0\exerciciosC#.runtimeconfig.json
+D:\Documentos\repos\exerciciosC#\exerciciosC#\bin\Debug\net8.0\exerciciosC#.dll
+D:\Documentos\repos\exerciciosC#\exerciciosC#\bin\Debug\net8.0\exerciciosC#.pdb
+D:\Documentos\repos\exerciciosC#\exerciciosC#\obj\Debug\net8.0\exerciciosC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\repos\exerciciosC#\exerciciosC#\obj\Debug\net8.0\exerciciosC#.AssemblyInfoInputs.cache
+D:\Documentos\repos\exerciciosC#\exerciciosC#\obj\Debug\net8.0\exerciciosC#.AssemblyInfo.cs
+D:\Documentos\repos\exerciciosC#\exerciciosC#\obj\Debug\net8.0\exerciciosC#.csproj.CoreCompileInputs.cache
+D:\Documentos\repos\exerciciosC#\exerciciosC#\obj\Debug\net8.0\exerciciosC#.dll
+D:\Documentos\repos\exerciciosC#\exerciciosC#\obj\Debug\net8.0\refint\exerciciosC#.dll
+D:\Documentos\repos\exerciciosC#\exerciciosC#\obj\Debug\net8.0\exerciciosC#.pdb
+D:\Documentos\repos\exerciciosC#\exerciciosC#\obj\Debug\net8.0\exerciciosC#.genruntimeconfig.cache
+D:\Documentos\repos\exerciciosC#\exerciciosC#\obj\Debug\net8.0\ref\exerciciosC#.dll
